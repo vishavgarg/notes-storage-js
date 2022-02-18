@@ -1,2 +1,2 @@
 # notes-storage-js
-Magic notes- where you can store the notes and its description in the local storage
+Magic notes- where you can store the notes and its description in the local storage and also delete it
